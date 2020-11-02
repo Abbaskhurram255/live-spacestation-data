@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/live-spacestation-data/static/css/main.7192243e.chunk.css",
+    "main.js": "/live-spacestation-data/static/js/main.a1883e75.chunk.js",
+    "main.js.map": "/live-spacestation-data/static/js/main.a1883e75.chunk.js.map",
+    "runtime-main.js": "/live-spacestation-data/static/js/runtime-main.4e7e134f.js",
+    "runtime-main.js.map": "/live-spacestation-data/static/js/runtime-main.4e7e134f.js.map",
+    "static/js/2.7a2faf16.chunk.js": "/live-spacestation-data/static/js/2.7a2faf16.chunk.js",
+    "static/js/2.7a2faf16.chunk.js.map": "/live-spacestation-data/static/js/2.7a2faf16.chunk.js.map",
+    "index.html": "/live-spacestation-data/index.html",
+    "precache-manifest.eb3706c9d1bd33d48bbfe6458380eddf.js": "/live-spacestation-data/precache-manifest.eb3706c9d1bd33d48bbfe6458380eddf.js",
+    "service-worker.js": "/live-spacestation-data/service-worker.js",
+    "static/css/main.7192243e.chunk.css.map": "/live-spacestation-data/static/css/main.7192243e.chunk.css.map",
+    "static/js/2.7a2faf16.chunk.js.LICENSE.txt": "/live-spacestation-data/static/js/2.7a2faf16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e7e134f.js",
+    "static/js/2.7a2faf16.chunk.js",
+    "static/css/main.7192243e.chunk.css",
+    "static/js/main.a1883e75.chunk.js"
+  ]
+}
